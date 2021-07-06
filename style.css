@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 0;  
+    /* margin-left: 0px;   */
+     margin-left: 0px; 
+    margin-top: 100px;
+}
+h1 {
+    
+    font-size: 70px;
+    margin:0;
+    padding:0;
+    /* margin-left: 90px; 
+    margin-top: 100px; */
+}
+  
+  .choclate-color{
+      color: brown;
+  }
+  section{
+    display: flex;
+    margin-bottom: 200px;
+}
+  .half-part{
+     width: 80%; 
+    /* margin-right: 35%; */
+    padding-left: 5%;
+    padding-right: 0;
+    padding-top: 9%;
+    padding-bottom: 1%;
+    /* box-shadow:10px,10px yellow; */
+}
+.half-part2{
+    width: 50%; 
+    margin-right: 5%; 
+    padding-left: 15%; 
+    padding-right: 0;
+    padding-top: 0%;
+    margin-left: 0 auto;
+   /* padding-bottom: 1%; */
+   /* box-shadow:10px,10px yellow; */
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(orange,red);
+    padding: 15px 50px;
+    border-radius: 25px;
+    color: white; 
+    font-weight: 400;;
+
+}
+.about-me{
+    background-image:url(images/shapes/pex.jpg);
+    background-repeat: no-repeat; 
+    background-position: 0;
+    /* padding-left: auto; */
+    margin-left: 0 auto; ;
+
+    /* opacity: 0.8; */
+}
